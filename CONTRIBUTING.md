@@ -93,8 +93,8 @@ That's it! Thank you for your contribution!
 
 ## <a name="features"></a> **Do you have an ideas for a new feature or a change to an existing one?**
 
-* Open a GitHub enhancement *request issue* and describe the new functionality.
+* Open a GitHub issue and label it as an *enhancement* and describe the new functionality.
 
 ##  <a name="questions"></a> Do you have questions about the source code?
 
-* Ask any question about the code or how to use Solace messaging in the [Solace community](http://dev.solace.com/community/).
+* Ask any question about the code or how to use Solace messaging in the [Solace community](https://solace.community).
